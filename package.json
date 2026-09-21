@@ -1,0 +1,27 @@
+{
+  "name": "ce385",
+  "version": "1.0.0",
+  "description": "สรุป",
+  "main": "ex1-profile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/panyawut1810-cloud/CE385.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/panyawut1810-cloud/CE385/issues"
+  },
+  "homepage": "https://github.com/panyawut1810-cloud/CE385#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
